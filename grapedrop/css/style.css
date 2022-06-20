@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  .gpd-cnt{
+    padding:0;
+  }
+  #ifaen{
+    background-color:#f79e9e;
+  }
+  .gpd-box{
+    padding:5px 0;
+  }
+  .gpd-header{
+    margin:0;
+  }
+  #i148g{
+    border:0 solid #000000;
+    color:#fffdfd;
+    margin:0 0 0 0;
+    padding:2px 0 0 0;
+  }
+  #ikyox{
+    background-color:#ffffff;
+  }
+  #inl9o{
+    display:none;
+  }
+  #iog16{
+    display:none;
+  }
+  #i0pxg{
+    background-color:#f59999;
+  }
+  #ic4jk{
+    background-image:none;
+    background-repeat:repeat;
+    background-position:left top;
+    background-attachment:scroll;
+    background-size:auto;
+  }
+  #iwqtr{
+    font-weight:600;
+    font-family:Helvetica, serif;
+    font-size:14px;
+    color:#ffffff;
+  }
+  #ij9wv{
+    font-family:Helvetica, serif;
+    font-size:14px;
+    font-weight:600;
+    color:#ffffff;
+  }
+  #izj1y{
+    color:#ffffff;
+    font-family:Helvetica, serif;
+    font-weight:600;
+    font-size:14px;
+  }
+  #iapn2{
+    color:#fef7f7;
+    font-family:Helvetica, serif;
+    font-weight:600;
+    font-size:14px;
+  }
+  #ilba1{
+    color:#fae9e9;
+    font-family:Helvetica, serif;
+    font-weight:600;
+    font-size:14px;
+  }
+  #i3djk{
+    color:#fcf5f5;
+    font-family:Helvetica, serif;
+    font-size:14px;
+    font-weight:600;
+  }
+  #i8x4y{
+    color:#fffafa;
+    font-family:Helvetica, serif;
+    font-weight:600;
+    font-size:20px;
+  }
+  
